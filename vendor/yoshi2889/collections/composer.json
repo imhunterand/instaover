@@ -1,0 +1,29 @@
+{
+    "name": "yoshi2889/collections",
+    "description": "Simple Collection class allowing storage of specific data.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0.0",
+        "evenement/evenement": "^3.0 || ^2.0"
+    },
+    "suggest": {
+        "yoshi2889/validation-closures": "Closures to use for validating data."
+    },
+    "autoload": {
+        "psr-4": {
+            "Yoshi2889\\Collections\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yoshi2889",
+            "email": "rick.2889@gmail.com",
+            "homepage": "https://nanosector.nl",
+            "role": "Lead Developer"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    }
+}
