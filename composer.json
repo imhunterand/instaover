@@ -1,0 +1,6 @@
+{
+    "require": {
+      "unreal4u/telegram-api": "~3.4"
+    }
+  }
+   
