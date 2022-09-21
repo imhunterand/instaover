@@ -11,7 +11,7 @@ Instaover is - instagram autobot account report permanenty⚡
   * Validator account at ``acc.list`` for mas account checker signup/login
   * Random Localtion used ``proxy.list``
   
-### [2] : MASS TARGET REPORT 
+### [2] : MASS TARGET REPORT  
   * Robot ``/command -r``  report the target proffile ``@username`` used ``valid.list``
   * Robot ``/command -rp``  random proxy
   * Robot ``/command -l``  random localtion
